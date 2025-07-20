@@ -8,8 +8,4 @@ Below are the screenshots of all the projects
 
 Project - 1  Accordian []
 
-Single Selection Enabled
-![image alt](https://github.com/Ayushk1203/25-React-Interview-Projects/blob/main/React%2025%20Interview%20Projects%20Combined/Interview%20Projects/public/images/Screenshot-1.PNG?raw=true) 
 
-Multiple Selection Enabled
-![image alt](https://github.com/Ayushk1203/25-React-Interview-Projects/blob/main/React%2025%20Interview%20Projects%20Combined/Interview%20Projects/public/images/Screenshot-2.PNG?raw=true)
