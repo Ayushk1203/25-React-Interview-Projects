@@ -5,3 +5,7 @@ I have also deployed a combined version to netlify where you can see all the min
 
 
 Below are the screenshots of all the projects
+
+Project - 1  Accordian []
+
+![image alt](https://github.com/Ayushk1203/25-React-Interview-Projects/blob/main/React%2025%20Interview%20Projects%20Combined/Interview%20Projects/public/images/Screenshot-1.PNG?raw=true)
