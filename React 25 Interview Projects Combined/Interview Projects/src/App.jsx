@@ -12,7 +12,7 @@ function App() {
       {/*<Accordian/>*/}
       {/*<RandomColor/>*/}
 
-      <StarRating noOfStars={8}/>
+      <StarRating noOfStars={10}/>
       
     </>
   )
